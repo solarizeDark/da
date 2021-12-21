@@ -6,3 +6,6 @@ https://docs.google.com/spreadsheets/d/19r7IoO0jffGWvXTTPlh0xaKAgf8hTnIOTLL5dji9
 
 # Данные после
 https://docs.google.com/spreadsheets/d/1OcbgK321r-YwBwXwWOIxRSwGKhbWBMVUt_6RMQBFSGU/edit#gid=1600196058
+
+# Статистика
+https://datastudio.google.com/reporting/45d09ef7-4db9-4a61-97d0-709910d76233/page/p_orwz6o0hqc
